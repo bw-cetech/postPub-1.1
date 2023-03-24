@@ -1,6 +1,8 @@
 # postPub-1.1
 source code for Productionizing AI - new trends: Causal AI
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bw-cetech/postPub-1.1.git/HEAD)
+
 NB for ERRORS INSTALLING DOWHY (PYWHY) PYTHON LIBRARY e.g.
 Failed building wheel for shap / error: Microsoft Visual C++ 14.0 or greater is required. Get it with "Microsoft C++ Build Tools": https://visualstudio.microsoft.com/visual-cpp-build-tools/
 
